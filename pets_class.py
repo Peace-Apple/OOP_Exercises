@@ -21,5 +21,5 @@ class Dog:
     print("{} is {}.".format(first.name, first.age))
     print("{} is {}.".format(second.name, second.age))
     print("{} is {}.".format(third.name, third.age))
-    print("And they're all {} of course.".format(Pets.kind))
+    print("And they're all {}, of course.".format(Pets.kind))
     
